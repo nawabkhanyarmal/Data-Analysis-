@@ -1,0 +1,26 @@
+# Data manipulation
+numpy
+pandas
+
+# Data visualization
+matplotlib
+seaborn
+plotly
+plotly-express
+
+# Statistical analysis
+scipy
+statsmodels
+
+# Data preprocessing / ML utilities
+scikit-learn
+
+# Jupyter Notebook
+jupyter
+notebook
+ipython
+
+# Optional utilities
+tqdm
+pickle
+joblib
